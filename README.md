@@ -1,6 +1,6 @@
 # Задача №2 - "Получи рубль за каждые 100!"
 
-## Исходный код task_32.class
+## Исходный код Task_32.class
 ```java
 import java.util.Scanner;
 public class Task_32 {
