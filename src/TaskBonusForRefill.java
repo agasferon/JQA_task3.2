@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Task_32 {
+public class TaskBonusForRefill {
     public static void main(String[] args) {
         int amount = 100;
         int bonus = 0;
